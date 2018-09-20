@@ -1,3 +1,6 @@
+## WARNING: DEPRECATED
+[Please see updated module in official Magisk Plugin Repo](https://github.com/Magisk-Modules-Repo/VoEnabler).
+
 ## VoEnabler
 This module enables the VoLTE and VoWiFi options by editing `build.prop`.
 
